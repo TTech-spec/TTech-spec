@@ -27,6 +27,7 @@
 ### 🚀 About me
 - 💼 **Front-End Developer @ LandCulture**: built the custom CRM that runs the company's staff and sales operations
 - 🎓 Built a **digital attendance app used by 1,000+ students** at Ekiti State University
+- 🏆 **Round 2 qualifier, 2026 Switch Global Competition** (Team TRIARISTOS)
 - 🎨 Freelance web developer & brand designer since 2023
 - 🌱 Into UI/UX, mobile apps and emerging web tech
 - 🤝 **Open to full-time, remote, internship and freelance roles**
@@ -136,6 +137,26 @@ Story site with a trailer intro, quiz and playable canvas fighting duel.
 `JavaScript` `Canvas`
 
 **[💻 Code](https://github.com/TTech-spec/games-)**
+
+</td>
+</tr>
+</table>
+
+<!-- Achievements -->
+<h3 align="center">🏆 Achievements</h3>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### 🌍 2026 Switch Global Competition: Round 2 qualifier · Team TRIARISTOS
+**Certificate of Achievement**, presented by the Switch Energy Alliance
+
+The Switch Global Competition challenges student teams from universities around the world to take on real energy problems and explain their solutions clearly to a global audience. With my team, **TRIARISTOS**, I advanced past the first round to **Round 2 of the 2026 competition**.
+
+It's the same approach I bring to my development work: understand the real problem, design a clear solution, and present it in a way people quickly understand. Whether that's an attendance app for 1,000+ students or a CRM a whole company relies on, I care about building things that make a real-world impact. This competition let me apply that thinking on a global stage, alongside teammates from a field outside my own.
+
+📄 **[View certificate](./SGC26_Certificate_Adekola_Timothy.pdf)**
 
 </td>
 </tr>
