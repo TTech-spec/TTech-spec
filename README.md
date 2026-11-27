@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-self-nine-52.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=ECC766&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Supabase;Shipped+an+app+used+by+1%2C000%2B+students;Open+to+work+%F0%9F%9A%80" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=ECC766&center=true&vCenter=true&width=420&lines=Front-End+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Supabase;Shipped+an+app+used+by+1%2C000%2B+students;Open+to+work+%F0%9F%9A%80" alt="Typing intro">
   </a>
 </p>
 
@@ -19,10 +19,7 @@
 
 <br>
 
-<!-- About + Stack, two columns -->
-<table>
-<tr>
-<td width="55%" valign="top">
+<!-- About + Stack -->
 
 ### 🚀 About me
 - 💼 **Front-End Developer @ LandCulture**: built the custom CRM that runs the company's staff and sales operations
@@ -31,9 +28,6 @@
 - 🎨 Freelance web developer & brand designer since 2023
 - 🌱 Into UI/UX, mobile apps and emerging web tech
 - 🤝 **Open to full-time, remote, internship and freelance roles**
-
-</td>
-<td width="45%" valign="top">
 
 ### 🛠️ Tech stack
 <p>
@@ -44,110 +38,21 @@
 
 **Also:** React Native · shadcn/ui · Radix UI · Framer Motion · Canva
 
-</td>
-</tr>
-</table>
+<!-- Projects -->
+### ⭐ Featured projects
 
-<!-- Projects as cards -->
-<h3 align="center">⭐ Featured projects</h3>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🎓 Student Attendance App
-Digital class attendance replacing paper sheets. **1,000+ active users.**
-
-`React` `TypeScript` `Supabase`
-
-</td>
-<td width="33%" valign="top">
-
-#### 📊 LandCulture CRM
-Staff and sales management with role-based access and responsive dashboards.
-
-`React` `TypeScript` `Supabase`
-
-</td>
-<td width="33%" valign="top">
-
-#### 💸 TIM.PAY
-Pixel-perfect fintech payments landing page with smooth motion.
-
-`React` `shadcn/ui` `Framer Motion`
-
-**[🔗 Live demo](https://pixel-perfect-showcase-two.vercel.app)**
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-#### 🏢 timso
-SaaS landing page for hybrid-team coordination and desk booking.
-
-`React` `TypeScript` `Vite`
-
-**[🔗 Live demo](https://timso-rho.vercel.app)**
-
-</td>
-<td valign="top">
-
-#### 🎓 DarlTech Academy
-Conversion-focused, SEO-ready landing page for a Lagos tech academy.
-
-`React` `TypeScript` `Tailwind`
-
-**[🔗 darltechacademy.online](https://darltechacademy.online)**
-
-</td>
-<td valign="top">
-
-#### 🌐 NetFun
-Mobile-first, installable social web app for students.
-
-`React` `TypeScript` `Vite`
-
-**[🔗 netfun.online](https://netfun.online)**
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-#### 🛍️ BagSearch.shop
-E-commerce platform with Supabase auth and WhatsApp enquiries.
-
-`React` `Tailwind` `Supabase`
-
-</td>
-<td valign="top">
-
-#### 📱 DeviceNest
-Gadget store with category filtering and real-time data.
-
-`React` `Tailwind` `Supabase`
-
-</td>
-<td valign="top">
-
-#### 🎮 Tidebound
-Story site with a trailer intro, quiz and playable canvas fighting duel.
-
-`JavaScript` `Canvas`
-
-**[💻 Code](https://github.com/TTech-spec/games-)**
-
-</td>
-</tr>
-</table>
+- **🎓 Student Attendance App**: Digital class attendance replacing paper sheets. **1,000+ active users.**<br>`React` `TypeScript` `Supabase`
+- **📊 LandCulture CRM**: Staff and sales management with role-based access and responsive dashboards.<br>`React` `TypeScript` `Supabase`
+- **💸 TIM.PAY**: Pixel-perfect fintech payments landing page with smooth motion.<br>`React` `shadcn/ui` `Framer Motion` · [🔗 Live demo](https://pixel-perfect-showcase-two.vercel.app)
+- **🏢 timso**: SaaS landing page for hybrid-team coordination and desk booking.<br>`React` `TypeScript` `Vite` · [🔗 Live demo](https://timso-rho.vercel.app)
+- **🎓 DarlTech Academy**: Conversion-focused, SEO-ready landing page for a Lagos tech academy.<br>`React` `TypeScript` `Tailwind` · [🔗 darltechacademy.online](https://darltechacademy.online) · [💻 Code](https://github.com/TTech-spec/darltech.com)
+- **🌐 NetFun**: Mobile-first, installable social web app for students.<br>`React` `TypeScript` `Vite` · [🔗 netfun.online](https://netfun.online)
+- **🛍️ BagSearch.shop**: E-commerce platform with Supabase auth and WhatsApp enquiries.<br>`React` `Tailwind` `Supabase`
+- **📱 DeviceNest**: Gadget store with category filtering and real-time data.<br>`React` `Tailwind` `Supabase`
+- **🎮 Tidebound**: Story site with a trailer intro, quiz and playable canvas fighting duel.<br>`JavaScript` `Canvas` · [💻 Code](https://github.com/TTech-spec/games-)
 
 <!-- Achievements -->
-<h3 align="center">🏆 Achievements</h3>
-
-<table>
-<tr>
-<td width="100%" valign="top">
+### 🏆 Achievements
 
 #### 🌍 2026 Switch Global Competition: Round 2 qualifier · Team TRIARISTOS
 **Certificate of Achievement**, presented by the Switch Energy Alliance
@@ -158,18 +63,14 @@ It's the same approach I bring to my development work: understand the real probl
 
 📄 **[View certificate](./SGC26_Certificate_Adekola_Timothy.pdf)**
 
-</td>
-</tr>
-</table>
-
 <!-- Stats -->
 <h3 align="center">📊 GitHub stats</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TTech-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTech-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TTech-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTech-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TTech-spec&theme=tokyonight&hide_border=true" alt="Streak">
+  <img width="100%" style="max-width:500px" src="https://streak-stats.demolab.com?user=TTech-spec&theme=tokyonight&hide_border=true" alt="Streak">
 </p>
 
 <!-- Snake (turned off until GitHub Actions runs on this account)
