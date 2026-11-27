@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/><stop offset=".5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <style>
+      .t{font:800 64px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#ecc766;opacity:0;animation:in 1.2s ease-out .2s forwards}
+      .d{font:500 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e4f1ee;opacity:0;animation:in 1.2s ease-out .7s forwards}
+      @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+      .w1{animation:sway 8s ease-in-out infinite alternate}.w2{animation:sway 11s ease-in-out infinite alternate-reverse}
+      @keyframes sway{from{transform:translateX(0)}to{transform:translateX(-120px)}}
+    </style>
+  </defs>
+  <clipPath id="c"><path d="M0 0h1200v190c-150 40-300 40-450 10S450 150 300 180 100 230 0 210z"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="260" fill="url(#g)"/>
+    <g class="w2" opacity=".5"><path fill="#16313b" d="M0 175c150-35 300-35 450-8s300 35 450 8 300-35 450-8 300 35 450 8v100H0z"/></g>
+    <g class="w1" opacity=".18"><path fill="#ecc766" d="M0 200c150-25 300-25 450-5s300 25 450 5 300-25 450-5 300 25 450 5v80H0z"/></g>
+  </g>
+  <text class="t" x="600" y="105" text-anchor="middle">Adekola Timothy</text>
+  <text class="d" x="600" y="148" text-anchor="middle">Front-End &amp; Mobile App Developer · Lagos, Nigeria</text>
+</svg>

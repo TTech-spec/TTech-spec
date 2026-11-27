@@ -1,6 +1,6 @@
 <!-- Hero banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adekola%20Timothy&fontSize=58&fontColor=ecc766&animation=fadeIn&fontAlignY=38&desc=Front-End%20%26%20Mobile%20App%20Developer%20%C2%B7%20Lagos%2C%20Nigeria&descAlignY=58&descSize=18" alt="Adekola Timothy banner">
+  <img width="100%" src="./assets/banner.svg" alt="Adekola Timothy · Front-End &amp; Mobile App Developer">
 </p>
 
 <p align="center">
@@ -86,4 +86,4 @@ It's the same approach I bring to my development work: understand the real probl
   📄 <b><a href="./Adekola_Timothy_CV.pdf">Download my CV</a></b> · 📞 +234 814 706 1837 · ✉️ adekolatimothy115@gmail.com
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="Footer wave">
+<img width="100%" src="./assets/footer.svg" alt="">
