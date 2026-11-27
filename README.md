@@ -151,13 +151,14 @@ Story site with a trailer intro, quiz and playable canvas fighting duel.
   <img src="https://streak-stats.demolab.com?user=TTech-spec&theme=tokyonight&hide_border=true" alt="Streak">
 </p>
 
-<!-- Snake -->
+<!-- Snake (turned off until GitHub Actions runs on this account)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTech-spec/TTech-spec/output/snake-dark.svg">
     <img src="https://raw.githubusercontent.com/TTech-spec/TTech-spec/output/snake.svg" alt="Contribution snake">
   </picture>
 </p>
+-->
 
 <p align="center">
   📄 <b><a href="./Adekola_Timothy_CV.pdf">Download my CV</a></b> · 📞 +234 814 706 1837 · ✉️ adekolatimothy115@gmail.com
